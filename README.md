@@ -69,9 +69,9 @@ crudeCompass/
 | Member | Name | Owns | Main job |
 |---|---|---|---|
 | **A** | Arun | `db.py`, `app.py` (layout), `data/`, repo, deployment | Database, seed data, stubs, dashboard shell, joining everything together, final demo |
-| **B** | [name] | `fetch_weather.py`, `fetch_news.py` | Real Open-Meteo and GDELT data turned into 0 to 100 signals |
-| **C** | [Shivam] | `risk.py`, `cost.py` | Risk score with reasons, wait vs reroute cost, break-even |
-| **D** | [name] | `optimizer.py`, `compliance.py`, dashboard widgets | Replacement blend, sanctions check, map and what-if controls |
+| **B** | Manthan | `fetch_weather.py`, `fetch_news.py` | Real Open-Meteo and GDELT data turned into 0 to 100 signals |
+| **C** | Shivam | `risk.py`, `cost.py` | Risk score with reasons, wait vs reroute cost, break-even |
+| **D** | kaif | `optimizer.py`, `compliance.py`, dashboard widgets | Replacement blend, sanctions check, map and what-if controls |
 
 Review pairs (check each other's pull requests): **A with B**, **C with D**.
 
